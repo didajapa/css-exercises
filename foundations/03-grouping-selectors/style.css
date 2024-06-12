@@ -1,0 +1,15 @@
+.nr1,
+.nr2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.nr1 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.nr2 {
+    background-color: rgb(255, 255, 0);
+}
